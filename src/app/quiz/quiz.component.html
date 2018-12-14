@@ -1,0 +1,52 @@
+<div class="container-fluid">
+  <div class="row">
+    <p class="explainer col-sm">
+      How well do you know the top players in bigs? Below is a list of {{
+      answers.length }}
+      players who either pitched 60 innings or received 502 plate appearances. For each correct answer you will receive
+      10 extra seconds, up to a maximum of one minute. Good luck!
+    </p>
+  </div>
+  <div *ngIf="finished" class="row alert alert-info text-center" role="alert">
+    Game Over! You managed to find {{ answered }} players, which is {{ answered / answers.length * 100 | number }}%!
+  </div>
+  <div class="row top-bar">
+    <div class="col">
+      <input #nameInput [disabled]="!started || finished" (keyup)="handleChange()" [(ngModel)]="currentName"
+        placeholder="Last Name">
+    </div>
+
+    <div class="col" *ngIf="!finished">
+      <div *ngIf="!started">
+        <button (click)="startQuiz(nameInput)">Start the Quiz!</button>
+      </div>
+
+      <div *ngIf="started">
+        <button (click)="endQuiz()">Give Up!</button>
+      </div>
+    </div>
+    <div class="col" *ngIf="finished">
+    </div>
+
+    <div class="col">
+      Time:
+      <span [class.warning]="time < 20">
+        {{ time | formatTime }}
+      </span>
+    </div>
+
+    <div class="col text-right">
+      Score: {{ answered }} / {{ answers.length }}
+    </div>
+
+  </div>
+
+  <div class="quiz-answers">
+    <div class="answer-box" *ngFor="let entry of answers" [class.not-found]="finished && !found(entry)">
+      <span *ngIf="show(entry)">
+        {{ entry | formatName }}
+      </span>
+    </div>
+  </div>
+
+</div>

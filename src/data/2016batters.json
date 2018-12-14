@@ -1,0 +1,3402 @@
+[
+	{
+		"playerID": "abreujo02",
+		"nameLast": "Abreu",
+		"nameFirst": "Jose"
+	},
+	{
+		"playerID": "ackledu01",
+		"nameLast": "Ackley",
+		"nameFirst": "Dustin"
+	},
+	{
+		"playerID": "adamecr01",
+		"nameLast": "Adames",
+		"nameFirst": "Cristhian"
+	},
+	{
+		"playerID": "adamsma01",
+		"nameLast": "Adams",
+		"nameFirst": "Matt"
+	},
+	{
+		"playerID": "adlemti01",
+		"nameLast": "Adleman",
+		"nameFirst": "Tim"
+	},
+	{
+		"playerID": "adriaeh01",
+		"nameLast": "Adrianza",
+		"nameFirst": "Ehire"
+	},
+	{
+		"playerID": "ahmedni01",
+		"nameLast": "Ahmed",
+		"nameFirst": "Nick"
+	},
+	{
+		"playerID": "alberha01",
+		"nameLast": "Alberto",
+		"nameFirst": "Hanser"
+	},
+	{
+		"playerID": "alcanar01",
+		"nameLast": "Alcantara",
+		"nameFirst": "Arismendy"
+	},
+	{
+		"playerID": "almonab01",
+		"nameLast": "Almonte",
+		"nameFirst": "Abraham"
+	},
+	{
+		"playerID": "almoral01",
+		"nameLast": "Almora",
+		"nameFirst": "Albert"
+	},
+	{
+		"playerID": "alonsyo01",
+		"nameLast": "Alonso",
+		"nameFirst": "Yonder"
+	},
+	{
+		"playerID": "altheaa01",
+		"nameLast": "Altherr",
+		"nameFirst": "Aaron"
+	},
+	{
+		"playerID": "altuvjo01",
+		"nameLast": "Altuve",
+		"nameFirst": "Jose"
+	},
+	{
+		"playerID": "alvarpe01",
+		"nameLast": "Alvarez",
+		"nameFirst": "Pedro"
+	},
+	{
+		"playerID": "amarial01",
+		"nameLast": "Amarista",
+		"nameFirst": "Alexi"
+	},
+	{
+		"playerID": "anderch01",
+		"nameLast": "Anderson",
+		"nameFirst": "Chase"
+	},
+	{
+		"playerID": "anderti01",
+		"nameLast": "Anderson",
+		"nameFirst": "Tim"
+	},
+	{
+		"playerID": "anderty01",
+		"nameLast": "Anderson",
+		"nameFirst": "Tyler"
+	},
+	{
+		"playerID": "andinro01",
+		"nameLast": "Andino",
+		"nameFirst": "Robert"
+	},
+	{
+		"playerID": "andruel01",
+		"nameLast": "Andrus",
+		"nameFirst": "Elvis"
+	},
+	{
+		"playerID": "aokino01",
+		"nameLast": "Aoki",
+		"nameFirst": "Nori"
+	},
+	{
+		"playerID": "arciaor01",
+		"nameLast": "Arcia",
+		"nameFirst": "Orlando"
+	},
+	{
+		"playerID": "arciaos01",
+		"nameLast": "Arcia",
+		"nameFirst": "Oswaldo"
+	},
+	{
+		"playerID": "arenano01",
+		"nameLast": "Arenado",
+		"nameFirst": "Nolan"
+	},
+	{
+		"playerID": "arrieja01",
+		"nameLast": "Arrieta",
+		"nameFirst": "Jake"
+	},
+	{
+		"playerID": "ascheco01",
+		"nameLast": "Asche",
+		"nameFirst": "Cody"
+	},
+	{
+		"playerID": "austity01",
+		"nameLast": "Austin",
+		"nameFirst": "Tyler"
+	},
+	{
+		"playerID": "avilaal01",
+		"nameLast": "Avila",
+		"nameFirst": "Alex"
+	},
+	{
+		"playerID": "avilemi01",
+		"nameLast": "Aviles",
+		"nameFirst": "Mike"
+	},
+	{
+		"playerID": "aybarer01",
+		"nameLast": "Aybar",
+		"nameFirst": "Erick"
+	},
+	{
+		"playerID": "baezja01",
+		"nameLast": "Baez",
+		"nameFirst": "Javier"
+	},
+	{
+		"playerID": "bandyje01",
+		"nameLast": "Bandy",
+		"nameFirst": "Jett"
+	},
+	{
+		"playerID": "barneau01",
+		"nameLast": "Barnes",
+		"nameFirst": "Austin"
+	},
+	{
+		"playerID": "barnebr02",
+		"nameLast": "Barnes",
+		"nameFirst": "Brandon"
+	},
+	{
+		"playerID": "barneda01",
+		"nameLast": "Barney",
+		"nameFirst": "Darwin"
+	},
+	{
+		"playerID": "barnhtu01",
+		"nameLast": "Barnhart",
+		"nameFirst": "Tucker"
+	},
+	{
+		"playerID": "bautijo02",
+		"nameLast": "Bautista",
+		"nameFirst": "Jose"
+	},
+	{
+		"playerID": "beckhgo01",
+		"nameLast": "Beckham",
+		"nameFirst": "Gordon"
+	},
+	{
+		"playerID": "beckhti01",
+		"nameLast": "Beckham",
+		"nameFirst": "Tim"
+	},
+	{
+		"playerID": "belljo02",
+		"nameLast": "Bell",
+		"nameFirst": "Josh"
+	},
+	{
+		"playerID": "beltbr01",
+		"nameLast": "Belt",
+		"nameFirst": "Brandon"
+	},
+	{
+		"playerID": "beltrad01",
+		"nameLast": "Beltre",
+		"nameFirst": "Adrian"
+	},
+	{
+		"playerID": "beltrca01",
+		"nameLast": "Beltran",
+		"nameFirst": "Carlos"
+	},
+	{
+		"playerID": "beninan01",
+		"nameLast": "Benintendi",
+		"nameFirst": "Andrew"
+	},
+	{
+		"playerID": "beresja01",
+		"nameLast": "Beresford",
+		"nameFirst": "James"
+	},
+	{
+		"playerID": "bethach01",
+		"nameLast": "Bethancourt",
+		"nameFirst": "Christian"
+	},
+	{
+		"playerID": "bettich01",
+		"nameLast": "Bettis",
+		"nameFirst": "Chad"
+	},
+	{
+		"playerID": "bettsmo01",
+		"nameLast": "Betts",
+		"nameFirst": "Mookie"
+	},
+	{
+		"playerID": "blackch02",
+		"nameLast": "Blackmon",
+		"nameFirst": "Charlie"
+	},
+	{
+		"playerID": "blairaa01",
+		"nameLast": "Blair",
+		"nameFirst": "Aaron"
+	},
+	{
+		"playerID": "blancan01",
+		"nameLast": "Blanco",
+		"nameFirst": "Andres"
+	},
+	{
+		"playerID": "blancgr01",
+		"nameLast": "Blanco",
+		"nameFirst": "Gregor"
+	},
+	{
+		"playerID": "blashja01",
+		"nameLast": "Blash",
+		"nameFirst": "Jabari"
+	},
+	{
+		"playerID": "bogaexa01",
+		"nameLast": "Bogaerts",
+		"nameFirst": "Xander"
+	},
+	{
+		"playerID": "bonifem01",
+		"nameLast": "Bonifacio",
+		"nameFirst": "Emilio"
+	},
+	{
+		"playerID": "bourjpe01",
+		"nameLast": "Bourjos",
+		"nameFirst": "Peter"
+	},
+	{
+		"playerID": "bourju01",
+		"nameLast": "Bour",
+		"nameFirst": "Justin"
+	},
+	{
+		"playerID": "bournmi01",
+		"nameLast": "Bourn",
+		"nameFirst": "Michael"
+	},
+	{
+		"playerID": "bradlar01",
+		"nameLast": "Bradley",
+		"nameFirst": "Archie"
+	},
+	{
+		"playerID": "bradlja02",
+		"nameLast": "Bradley",
+		"nameFirst": "Jackie"
+	},
+	{
+		"playerID": "brantmi02",
+		"nameLast": "Brantley",
+		"nameFirst": "Michael"
+	},
+	{
+		"playerID": "braunry02",
+		"nameLast": "Braun",
+		"nameFirst": "Ryan"
+	},
+	{
+		"playerID": "bregmal01",
+		"nameLast": "Bregman",
+		"nameFirst": "Alex"
+	},
+	{
+		"playerID": "brentbr01",
+		"nameLast": "Brentz",
+		"nameFirst": "Bryce"
+	},
+	{
+		"playerID": "brignre01",
+		"nameLast": "Brignac",
+		"nameFirst": "Reid"
+	},
+	{
+		"playerID": "britoso01",
+		"nameLast": "Brito",
+		"nameFirst": "Socrates"
+	},
+	{
+		"playerID": "browntr01",
+		"nameLast": "Brown",
+		"nameFirst": "Trevor"
+	},
+	{
+		"playerID": "broxtke01",
+		"nameLast": "Broxton",
+		"nameFirst": "Keon"
+	},
+	{
+		"playerID": "bruceja01",
+		"nameLast": "Bruce",
+		"nameFirst": "Jay"
+	},
+	{
+		"playerID": "bryankr01",
+		"nameLast": "Bryant",
+		"nameFirst": "Kris"
+	},
+	{
+		"playerID": "bumgama01",
+		"nameLast": "Bumgarner",
+		"nameFirst": "Madison"
+	},
+	{
+		"playerID": "burnsbi02",
+		"nameLast": "Burns",
+		"nameFirst": "Billy"
+	},
+	{
+		"playerID": "burriem01",
+		"nameLast": "Burriss",
+		"nameFirst": "Emmanuel"
+	},
+	{
+		"playerID": "bussni01",
+		"nameLast": "Buss",
+		"nameFirst": "Nick"
+	},
+	{
+		"playerID": "buterdr01",
+		"nameLast": "Butera",
+		"nameFirst": "Drew"
+	},
+	{
+		"playerID": "butlebi03",
+		"nameLast": "Butler",
+		"nameFirst": "Billy"
+	},
+	{
+		"playerID": "butleed01",
+		"nameLast": "Butler",
+		"nameFirst": "Eddie"
+	},
+	{
+		"playerID": "buxtoby01",
+		"nameLast": "Buxton",
+		"nameFirst": "Byron"
+	},
+	{
+		"playerID": "byrdma01",
+		"nameLast": "Byrd",
+		"nameFirst": "Marlon"
+	},
+	{
+		"playerID": "cabreas01",
+		"nameLast": "Cabrera",
+		"nameFirst": "Asdrubal"
+	},
+	{
+		"playerID": "cabreme01",
+		"nameLast": "Cabrera",
+		"nameFirst": "Melky"
+	},
+	{
+		"playerID": "cabremi01",
+		"nameLast": "Cabrera",
+		"nameFirst": "Miguel"
+	},
+	{
+		"playerID": "cabrera01",
+		"nameLast": "Cabrera",
+		"nameFirst": "Ramon"
+	},
+	{
+		"playerID": "cainlo01",
+		"nameLast": "Cain",
+		"nameFirst": "Lorenzo"
+	},
+	{
+		"playerID": "cainma01",
+		"nameLast": "Cain",
+		"nameFirst": "Matt"
+	},
+	{
+		"playerID": "calhoko01",
+		"nameLast": "Calhoun",
+		"nameFirst": "Kole"
+	},
+	{
+		"playerID": "campber01",
+		"nameLast": "Campbell",
+		"nameFirst": "Eric"
+	},
+	{
+		"playerID": "canhama01",
+		"nameLast": "Canha",
+		"nameFirst": "Mark"
+	},
+	{
+		"playerID": "canoro01",
+		"nameLast": "Cano",
+		"nameFirst": "Robinson"
+	},
+	{
+		"playerID": "cardust01",
+		"nameLast": "Cardullo",
+		"nameFirst": "Stephen"
+	},
+	{
+		"playerID": "carpema01",
+		"nameLast": "Carpenter",
+		"nameFirst": "Matt"
+	},
+	{
+		"playerID": "carreez01",
+		"nameLast": "Carrera",
+		"nameFirst": "Ezequiel"
+	},
+	{
+		"playerID": "cartech02",
+		"nameLast": "Carter",
+		"nameFirst": "Chris"
+	},
+	{
+		"playerID": "casalcu01",
+		"nameLast": "Casali",
+		"nameFirst": "Curt"
+	},
+	{
+		"playerID": "cashnan01",
+		"nameLast": "Cashner",
+		"nameFirst": "Andrew"
+	},
+	{
+		"playerID": "casteni01",
+		"nameLast": "Castellanos",
+		"nameFirst": "Nick"
+	},
+	{
+		"playerID": "castiwe01",
+		"nameLast": "Castillo",
+		"nameFirst": "Welington"
+	},
+	{
+		"playerID": "castrda01",
+		"nameLast": "Castro",
+		"nameFirst": "Daniel"
+	},
+	{
+		"playerID": "castrja01",
+		"nameLast": "Castro",
+		"nameFirst": "Jason"
+	},
+	{
+		"playerID": "castrst01",
+		"nameLast": "Castro",
+		"nameFirst": "Starlin"
+	},
+	{
+		"playerID": "cecilda01",
+		"nameLast": "Ceciliani",
+		"nameFirst": "Darrell"
+	},
+	{
+		"playerID": "centeju01",
+		"nameLast": "Centeno",
+		"nameFirst": "Juan"
+	},
+	{
+		"playerID": "cervefr01",
+		"nameLast": "Cervelli",
+		"nameFirst": "Francisco"
+	},
+	{
+		"playerID": "cespeyo01",
+		"nameLast": "Cespedes",
+		"nameFirst": "Yoenis"
+	},
+	{
+		"playerID": "chacijh01",
+		"nameLast": "Chacin",
+		"nameFirst": "Jhoulys"
+	},
+	{
+		"playerID": "chatwty01",
+		"nameLast": "Chatwood",
+		"nameFirst": "Tyler"
+	},
+	{
+		"playerID": "chenwe02",
+		"nameLast": "Chen",
+		"nameFirst": "Wei-Yin"
+	},
+	{
+		"playerID": "chiriro01",
+		"nameLast": "Chirinos",
+		"nameFirst": "Robinson"
+	},
+	{
+		"playerID": "chiselo01",
+		"nameLast": "Chisenhall",
+		"nameFirst": "Lonnie"
+	},
+	{
+		"playerID": "choiji01",
+		"nameLast": "Choi",
+		"nameFirst": "Ji-Man"
+	},
+	{
+		"playerID": "choosh01",
+		"nameLast": "Choo",
+		"nameFirst": "Shin-Soo"
+	},
+	{
+		"playerID": "clemepa02",
+		"nameLast": "Clemens",
+		"nameFirst": "Paul"
+	},
+	{
+		"playerID": "clevest01",
+		"nameLast": "Clevenger",
+		"nameFirst": "Steve"
+	},
+	{
+		"playerID": "coatsja01",
+		"nameLast": "Coats",
+		"nameFirst": "Jason"
+	},
+	{
+		"playerID": "coghlch01",
+		"nameLast": "Coghlan",
+		"nameFirst": "Chris"
+	},
+	{
+		"playerID": "colabch01",
+		"nameLast": "Colabello",
+		"nameFirst": "Chris"
+	},
+	{
+		"playerID": "colege01",
+		"nameLast": "Cole",
+		"nameFirst": "Gerrit"
+	},
+	{
+		"playerID": "collity01",
+		"nameLast": "Collins",
+		"nameFirst": "Tyler"
+	},
+	{
+		"playerID": "colonba01",
+		"nameLast": "Colon",
+		"nameFirst": "Bartolo"
+	},
+	{
+		"playerID": "colonch01",
+		"nameLast": "Colon",
+		"nameFirst": "Christian"
+	},
+	{
+		"playerID": "confomi01",
+		"nameLast": "Conforto",
+		"nameFirst": "Michael"
+	},
+	{
+		"playerID": "congeha01",
+		"nameLast": "Conger",
+		"nameFirst": "Hank"
+	},
+	{
+		"playerID": "conlead01",
+		"nameLast": "Conley",
+		"nameFirst": "Adam"
+	},
+	{
+		"playerID": "contrwi01",
+		"nameLast": "Contreras",
+		"nameFirst": "Willson"
+	},
+	{
+		"playerID": "corbipa01",
+		"nameLast": "Corbin",
+		"nameFirst": "Patrick"
+	},
+	{
+		"playerID": "correca01",
+		"nameLast": "Correa",
+		"nameFirst": "Carlos"
+	},
+	{
+		"playerID": "cosarja01",
+		"nameLast": "Cosart",
+		"nameFirst": "Jarred"
+	},
+	{
+		"playerID": "cowarka01",
+		"nameLast": "Cowart",
+		"nameFirst": "Kaleb"
+	},
+	{
+		"playerID": "cozarza01",
+		"nameLast": "Cozart",
+		"nameFirst": "Zack"
+	},
+	{
+		"playerID": "crawfbr01",
+		"nameLast": "Crawford",
+		"nameFirst": "Brandon"
+	},
+	{
+		"playerID": "crawfca02",
+		"nameLast": "Crawford",
+		"nameFirst": "Carl"
+	},
+	{
+		"playerID": "crispco01",
+		"nameLast": "Crisp",
+		"nameFirst": "Coco"
+	},
+	{
+		"playerID": "croncj01",
+		"nameLast": "Cron",
+		"nameFirst": "C. J."
+	},
+	{
+		"playerID": "cruzne02",
+		"nameLast": "Cruz",
+		"nameFirst": "Nelson"
+	},
+	{
+		"playerID": "cuetojo01",
+		"nameLast": "Cueto",
+		"nameFirst": "Johnny"
+	},
+	{
+		"playerID": "culbech01",
+		"nameLast": "Culberson",
+		"nameFirst": "Charlie"
+	},
+	{
+		"playerID": "cunnito01",
+		"nameLast": "Cunningham",
+		"nameFirst": "Todd"
+	},
+	{
+		"playerID": "cuthbch01",
+		"nameLast": "Cuthbert",
+		"nameFirst": "Cheslor"
+	},
+	{
+		"playerID": "dahlda01",
+		"nameLast": "Dahl",
+		"nameFirst": "David"
+	},
+	{
+		"playerID": "darnach01",
+		"nameLast": "d'Arnaud",
+		"nameFirst": "Chase"
+	},
+	{
+		"playerID": "darnatr01",
+		"nameLast": "d'Arnaud",
+		"nameFirst": "Travis"
+	},
+	{
+		"playerID": "davieza01",
+		"nameLast": "Davies",
+		"nameFirst": "Zach"
+	},
+	{
+		"playerID": "davisch02",
+		"nameLast": "Davis",
+		"nameFirst": "Chris"
+	},
+	{
+		"playerID": "daviskh01",
+		"nameLast": "Davis",
+		"nameFirst": "Khris"
+	},
+	{
+		"playerID": "davisra01",
+		"nameLast": "Davis",
+		"nameFirst": "Rajai"
+	},
+	{
+		"playerID": "deazaal01",
+		"nameLast": "De Aza",
+		"nameFirst": "Alejandro"
+	},
+	{
+		"playerID": "deckeja01",
+		"nameLast": "Decker",
+		"nameFirst": "Jaff"
+	},
+	{
+		"playerID": "degroja01",
+		"nameLast": "deGrom",
+		"nameFirst": "Jacob"
+	},
+	{
+		"playerID": "dejesiv02",
+		"nameLast": "De Jesus",
+		"nameFirst": "Ivan"
+	},
+	{
+		"playerID": "delacjo01",
+		"nameLast": "De La Cruz",
+		"nameFirst": "Joel"
+	},
+	{
+		"playerID": "delarjo01",
+		"nameLast": "De La Rosa",
+		"nameFirst": "Jorge"
+	},
+	{
+		"playerID": "delarru01",
+		"nameLast": "De La Rosa",
+		"nameFirst": "Rubby"
+	},
+	{
+		"playerID": "dendema01",
+		"nameLast": "den Dekker",
+		"nameFirst": "Matt"
+	},
+	{
+		"playerID": "descada01",
+		"nameLast": "Descalso",
+		"nameFirst": "Daniel"
+	},
+	{
+		"playerID": "desclan01",
+		"nameLast": "DeSclafani",
+		"nameFirst": "Anthony"
+	},
+	{
+		"playerID": "deshide02",
+		"nameLast": "DeShields",
+		"nameFirst": "Delino"
+	},
+	{
+		"playerID": "desmoia01",
+		"nameLast": "Desmond",
+		"nameFirst": "Ian"
+	},
+	{
+		"playerID": "diazal02",
+		"nameLast": "Diaz",
+		"nameFirst": "Aledmys"
+	},
+	{
+		"playerID": "dickeal01",
+		"nameLast": "Dickerson",
+		"nameFirst": "Alex"
+	},
+	{
+		"playerID": "dickeco01",
+		"nameLast": "Dickerson",
+		"nameFirst": "Corey"
+	},
+	{
+		"playerID": "dietrde01",
+		"nameLast": "Dietrich",
+		"nameFirst": "Derek"
+	},
+	{
+		"playerID": "difowi01",
+		"nameLast": "Difo",
+		"nameFirst": "Wilmer"
+	},
+	{
+		"playerID": "donaljo02",
+		"nameLast": "Donaldson",
+		"nameFirst": "Josh"
+	},
+	{
+		"playerID": "doziebr01",
+		"nameLast": "Dozier",
+		"nameFirst": "Brian"
+	},
+	{
+		"playerID": "drewst01",
+		"nameLast": "Drew",
+		"nameFirst": "Stephen"
+	},
+	{
+		"playerID": "drurybr01",
+		"nameLast": "Drury",
+		"nameFirst": "Brandon"
+	},
+	{
+		"playerID": "dudalu01",
+		"nameLast": "Duda",
+		"nameFirst": "Lucas"
+	},
+	{
+		"playerID": "duffyma01",
+		"nameLast": "Duffy",
+		"nameFirst": "Matt"
+	},
+	{
+		"playerID": "duvalad01",
+		"nameLast": "Duvall",
+		"nameFirst": "Adam"
+	},
+	{
+		"playerID": "dysonja01",
+		"nameLast": "Dyson",
+		"nameFirst": "Jarrod"
+	},
+	{
+		"playerID": "eatonad02",
+		"nameLast": "Eaton",
+		"nameFirst": "Adam"
+	},
+	{
+		"playerID": "eflinza01",
+		"nameLast": "Eflin",
+		"nameFirst": "Zach"
+	},
+	{
+		"playerID": "eibnebr01",
+		"nameLast": "Eibner",
+		"nameFirst": "Brett"
+	},
+	{
+		"playerID": "eickhje01",
+		"nameLast": "Eickhoff",
+		"nameFirst": "Jerad"
+	},
+	{
+		"playerID": "ellisaj01",
+		"nameLast": "Ellis",
+		"nameFirst": "A. J."
+	},
+	{
+		"playerID": "ellsbja01",
+		"nameLast": "Ellsbury",
+		"nameFirst": "Jacoby"
+	},
+	{
+		"playerID": "elmorja01",
+		"nameLast": "Elmore",
+		"nameFirst": "Jake"
+	},
+	{
+		"playerID": "encared01",
+		"nameLast": "Encarnacion",
+		"nameFirst": "Edwin"
+	},
+	{
+		"playerID": "escobal02",
+		"nameLast": "Escobar",
+		"nameFirst": "Alcides"
+	},
+	{
+		"playerID": "escobed01",
+		"nameLast": "Escobar",
+		"nameFirst": "Eduardo"
+	},
+	{
+		"playerID": "escobyu01",
+		"nameLast": "Escobar",
+		"nameFirst": "Yunel"
+	},
+	{
+		"playerID": "espinda01",
+		"nameLast": "Espinosa",
+		"nameFirst": "Danny"
+	},
+	{
+		"playerID": "ethiean01",
+		"nameLast": "Ethier",
+		"nameFirst": "Andre"
+	},
+	{
+		"playerID": "feathta01",
+		"nameLast": "Featherston",
+		"nameFirst": "Taylor"
+	},
+	{
+		"playerID": "federti01",
+		"nameLast": "Federowicz",
+		"nameFirst": "Tim"
+	},
+	{
+		"playerID": "fernajo02",
+		"nameLast": "Fernandez",
+		"nameFirst": "Jose"
+	},
+	{
+		"playerID": "fieldpr01",
+		"nameLast": "Fielder",
+		"nameFirst": "Prince"
+	},
+	{
+		"playerID": "figueco01",
+		"nameLast": "Figueroa",
+		"nameFirst": "Cole"
+	},
+	{
+		"playerID": "finnebr01",
+		"nameLast": "Finnegan",
+		"nameFirst": "Brandon"
+	},
+	{
+		"playerID": "flahery01",
+		"nameLast": "Flaherty",
+		"nameFirst": "Ryan"
+	},
+	{
+		"playerID": "florera02",
+		"nameLast": "Flores",
+		"nameFirst": "Ramon"
+	},
+	{
+		"playerID": "florewi01",
+		"nameLast": "Flores",
+		"nameFirst": "Wilmer"
+	},
+	{
+		"playerID": "floripe01",
+		"nameLast": "Florimon",
+		"nameFirst": "Pedro"
+	},
+	{
+		"playerID": "flowety01",
+		"nameLast": "Flowers",
+		"nameFirst": "Tyler"
+	},
+	{
+		"playerID": "foltymi01",
+		"nameLast": "Foltynewicz",
+		"nameFirst": "Mike"
+	},
+	{
+		"playerID": "forsylo01",
+		"nameLast": "Forsythe",
+		"nameFirst": "Logan"
+	},
+	{
+		"playerID": "fowlede01",
+		"nameLast": "Fowler",
+		"nameFirst": "Dexter"
+	},
+	{
+		"playerID": "francje02",
+		"nameLast": "Francoeur",
+		"nameFirst": "Jeff"
+	},
+	{
+		"playerID": "francma02",
+		"nameLast": "Franco",
+		"nameFirst": "Maikel"
+	},
+	{
+		"playerID": "frankni01",
+		"nameLast": "Franklin",
+		"nameFirst": "Nick"
+	},
+	{
+		"playerID": "fraziad01",
+		"nameLast": "Frazier",
+		"nameFirst": "Adam"
+	},
+	{
+		"playerID": "frazito01",
+		"nameLast": "Frazier",
+		"nameFirst": "Todd"
+	},
+	{
+		"playerID": "freemfr01",
+		"nameLast": "Freeman",
+		"nameFirst": "Freddie"
+	},
+	{
+		"playerID": "freemmi01",
+		"nameLast": "Freeman",
+		"nameFirst": "Mike"
+	},
+	{
+		"playerID": "freesda01",
+		"nameLast": "Freese",
+		"nameFirst": "David"
+	},
+	{
+		"playerID": "friedch01",
+		"nameLast": "Friedrich",
+		"nameFirst": "Christian"
+	},
+	{
+		"playerID": "fryerer01",
+		"nameLast": "Fryer",
+		"nameFirst": "Eric"
+	},
+	{
+		"playerID": "fuentre01",
+		"nameLast": "Fuentes",
+		"nameFirst": "Reymond"
+	},
+	{
+		"playerID": "gallojo01",
+		"nameLast": "Gallo",
+		"nameFirst": "Joey"
+	},
+	{
+		"playerID": "galvifr01",
+		"nameLast": "Galvis",
+		"nameFirst": "Freddy"
+	},
+	{
+		"playerID": "gamelbe01",
+		"nameLast": "Gamel",
+		"nameFirst": "Ben"
+	},
+	{
+		"playerID": "garciad01",
+		"nameLast": "Garcia",
+		"nameFirst": "Adonis"
+	},
+	{
+		"playerID": "garciav01",
+		"nameLast": "Garcia",
+		"nameFirst": "Avisail"
+	},
+	{
+		"playerID": "garcigr01",
+		"nameLast": "Garcia",
+		"nameFirst": "Greg"
+	},
+	{
+		"playerID": "garcija02",
+		"nameLast": "Garcia",
+		"nameFirst": "Jaime"
+	},
+	{
+		"playerID": "garcile02",
+		"nameLast": "Garcia",
+		"nameFirst": "Leury"
+	},
+	{
+		"playerID": "gardnbr01",
+		"nameLast": "Gardner",
+		"nameFirst": "Brett"
+	},
+	{
+		"playerID": "garnedu01",
+		"nameLast": "Garneau",
+		"nameFirst": "Dustin"
+	},
+	{
+		"playerID": "garzama01",
+		"nameLast": "Garza",
+		"nameFirst": "Matt"
+	},
+	{
+		"playerID": "gattiev01",
+		"nameLast": "Gattis",
+		"nameFirst": "Evan"
+	},
+	{
+		"playerID": "gennesc01",
+		"nameLast": "Gennett",
+		"nameFirst": "Scooter"
+	},
+	{
+		"playerID": "gentrcr01",
+		"nameLast": "Gentry",
+		"nameFirst": "Craig"
+	},
+	{
+		"playerID": "giavojo01",
+		"nameLast": "Giavotella",
+		"nameFirst": "Johnny"
+	},
+	{
+		"playerID": "gillaco01",
+		"nameLast": "Gillaspie",
+		"nameFirst": "Conor"
+	},
+	{
+		"playerID": "gilleco01",
+		"nameLast": "Gillespie",
+		"nameFirst": "Cole"
+	},
+	{
+		"playerID": "gimench01",
+		"nameLast": "Gimenez",
+		"nameFirst": "Chris"
+	},
+	{
+		"playerID": "godleza01",
+		"nameLast": "Godley",
+		"nameFirst": "Zack"
+	},
+	{
+		"playerID": "goeddty01",
+		"nameLast": "Goeddel",
+		"nameFirst": "Tyler"
+	},
+	{
+		"playerID": "goinsry01",
+		"nameLast": "Goins",
+		"nameFirst": "Ryan"
+	},
+	{
+		"playerID": "goldspa01",
+		"nameLast": "Goldschmidt",
+		"nameFirst": "Paul"
+	},
+	{
+		"playerID": "gomesya01",
+		"nameLast": "Gomes",
+		"nameFirst": "Yan"
+	},
+	{
+		"playerID": "gomezca01",
+		"nameLast": "Gomez",
+		"nameFirst": "Carlos"
+	},
+	{
+		"playerID": "gonzaad01",
+		"nameLast": "Gonzalez",
+		"nameFirst": "Adrian"
+	},
+	{
+		"playerID": "gonzaca01",
+		"nameLast": "Gonzalez",
+		"nameFirst": "Carlos"
+	},
+	{
+		"playerID": "gonzaer01",
+		"nameLast": "Gonzalez",
+		"nameFirst": "Erik"
+	},
+	{
+		"playerID": "gonzagi01",
+		"nameLast": "Gonzalez",
+		"nameFirst": "Gio"
+	},
+	{
+		"playerID": "gonzama01",
+		"nameLast": "Gonzalez",
+		"nameFirst": "Marwin"
+	},
+	{
+		"playerID": "goodwbr01",
+		"nameLast": "Goodwin",
+		"nameFirst": "Brian"
+	},
+	{
+		"playerID": "gordoal01",
+		"nameLast": "Gordon",
+		"nameFirst": "Alex"
+	},
+	{
+		"playerID": "gordode01",
+		"nameLast": "Gordon",
+		"nameFirst": "Dee"
+	},
+	{
+		"playerID": "gosean01",
+		"nameLast": "Gose",
+		"nameFirst": "Anthony"
+	},
+	{
+		"playerID": "gosewtu01",
+		"nameLast": "Gosewisch",
+		"nameFirst": "Tuffy"
+	},
+	{
+		"playerID": "gosseph01",
+		"nameLast": "Gosselin",
+		"nameFirst": "Philip"
+	},
+	{
+		"playerID": "gourryu01",
+		"nameLast": "Gurriel",
+		"nameFirst": "Yulieski"
+	},
+	{
+		"playerID": "grandcu01",
+		"nameLast": "Granderson",
+		"nameFirst": "Curtis"
+	},
+	{
+		"playerID": "grandya01",
+		"nameLast": "Grandal",
+		"nameFirst": "Yasmani"
+	},
+	{
+		"playerID": "grayjo02",
+		"nameLast": "Gray",
+		"nameFirst": "Jon"
+	},
+	{
+		"playerID": "greengr01",
+		"nameLast": "Green",
+		"nameFirst": "Grant"
+	},
+	{
+		"playerID": "gregodi01",
+		"nameLast": "Gregorius",
+		"nameFirst": "Didi"
+	},
+	{
+		"playerID": "greinza01",
+		"nameLast": "Greinke",
+		"nameFirst": "Zack"
+	},
+	{
+		"playerID": "grichra01",
+		"nameLast": "Grichuk",
+		"nameFirst": "Randal"
+	},
+	{
+		"playerID": "grossro01",
+		"nameLast": "Grossman",
+		"nameFirst": "Robbie"
+	},
+	{
+		"playerID": "guerrju02",
+		"nameLast": "Guerra",
+		"nameFirst": "Junior"
+	},
+	{
+		"playerID": "gutiefr01",
+		"nameLast": "Gutierrez",
+		"nameFirst": "Franklin"
+	},
+	{
+		"playerID": "guyerbr01",
+		"nameLast": "Guyer",
+		"nameFirst": "Brandon"
+	},
+	{
+		"playerID": "gyorkje01",
+		"nameLast": "Gyorko",
+		"nameFirst": "Jedd"
+	},
+	{
+		"playerID": "hamilbi02",
+		"nameLast": "Hamilton",
+		"nameFirst": "Billy"
+	},
+	{
+		"playerID": "hammeja01",
+		"nameLast": "Hammel",
+		"nameFirst": "Jason"
+	},
+	{
+		"playerID": "hanigmi01",
+		"nameLast": "Haniger",
+		"nameFirst": "Mitch"
+	},
+	{
+		"playerID": "hanigry01",
+		"nameLast": "Hanigan",
+		"nameFirst": "Ryan"
+	},
+	{
+		"playerID": "hansoal01",
+		"nameLast": "Hanson",
+		"nameFirst": "Alen"
+	},
+	{
+		"playerID": "hardyjj01",
+		"nameLast": "Hardy",
+		"nameFirst": "J. J."
+	},
+	{
+		"playerID": "harpebr03",
+		"nameLast": "Harper",
+		"nameFirst": "Bryce"
+	},
+	{
+		"playerID": "harrijo05",
+		"nameLast": "Harrison",
+		"nameFirst": "Josh"
+	},
+	{
+		"playerID": "harvema01",
+		"nameLast": "Harvey",
+		"nameFirst": "Matt"
+	},
+	{
+		"playerID": "hazelje01",
+		"nameLast": "Hazelbaker",
+		"nameFirst": "Jeremy"
+	},
+	{
+		"playerID": "headlch01",
+		"nameLast": "Headley",
+		"nameFirst": "Chase"
+	},
+	{
+		"playerID": "healyry01",
+		"nameLast": "Healy",
+		"nameFirst": "Ryon"
+	},
+	{
+		"playerID": "hechaad01",
+		"nameLast": "Hechavarria",
+		"nameFirst": "Adeiny"
+	},
+	{
+		"playerID": "heisech01",
+		"nameLast": "Heisey",
+		"nameFirst": "Chris"
+	},
+	{
+		"playerID": "hellije01",
+		"nameLast": "Hellickson",
+		"nameFirst": "Jeremy"
+	},
+	{
+		"playerID": "hendrky01",
+		"nameLast": "Hendricks",
+		"nameFirst": "Kyle"
+	},
+	{
+		"playerID": "heredgu01",
+		"nameLast": "Heredia",
+		"nameFirst": "Guillermo"
+	},
+	{
+		"playerID": "hernace02",
+		"nameLast": "Hernandez",
+		"nameFirst": "Cesar"
+	},
+	{
+		"playerID": "hernaen02",
+		"nameLast": "Hernandez",
+		"nameFirst": "Enrique"
+	},
+	{
+		"playerID": "hernago01",
+		"nameLast": "Hernandez",
+		"nameFirst": "Gorkys"
+	},
+	{
+		"playerID": "hernama02",
+		"nameLast": "Hernandez",
+		"nameFirst": "Marco"
+	},
+	{
+		"playerID": "hernate01",
+		"nameLast": "Hernandez",
+		"nameFirst": "Teoscar"
+	},
+	{
+		"playerID": "herreod01",
+		"nameLast": "Herrera",
+		"nameFirst": "Odubel"
+	},
+	{
+		"playerID": "herrmch01",
+		"nameLast": "Herrmann",
+		"nameFirst": "Chris"
+	},
+	{
+		"playerID": "heywaja01",
+		"nameLast": "Heyward",
+		"nameFirst": "Jason"
+	},
+	{
+		"playerID": "hicksaa01",
+		"nameLast": "Hicks",
+		"nameFirst": "Aaron"
+	},
+	{
+		"playerID": "hillaa01",
+		"nameLast": "Hill",
+		"nameFirst": "Aaron"
+	},
+	{
+		"playerID": "hillri01",
+		"nameLast": "Hill",
+		"nameFirst": "Rich"
+	},
+	{
+		"playerID": "holadbr01",
+		"nameLast": "Holaday",
+		"nameFirst": "Bryan"
+	},
+	{
+		"playerID": "hollima01",
+		"nameLast": "Holliday",
+		"nameFirst": "Matt"
+	},
+	{
+		"playerID": "holtbr01",
+		"nameLast": "Holt",
+		"nameFirst": "Brock"
+	},
+	{
+		"playerID": "holtty01",
+		"nameLast": "Holt",
+		"nameFirst": "Tyler"
+	},
+	{
+		"playerID": "hoodde01",
+		"nameLast": "Hood",
+		"nameFirst": "Destin"
+	},
+	{
+		"playerID": "hosmeer01",
+		"nameLast": "Hosmer",
+		"nameFirst": "Eric"
+	},
+	{
+		"playerID": "howarry01",
+		"nameLast": "Howard",
+		"nameFirst": "Ryan"
+	},
+	{
+		"playerID": "hoyinja01",
+		"nameLast": "Hoying",
+		"nameFirst": "Jared"
+	},
+	{
+		"playerID": "hundlni01",
+		"nameLast": "Hundley",
+		"nameFirst": "Nick"
+	},
+	{
+		"playerID": "huntece01",
+		"nameLast": "Hunter",
+		"nameFirst": "Cedric"
+	},
+	{
+		"playerID": "iannech01",
+		"nameLast": "Iannetta",
+		"nameFirst": "Chris"
+	},
+	{
+		"playerID": "iglesjo01",
+		"nameLast": "Iglesias",
+		"nameFirst": "Jose"
+	},
+	{
+		"playerID": "iglesra01",
+		"nameLast": "Iglesias",
+		"nameFirst": "Raisel"
+	},
+	{
+		"playerID": "inciaen01",
+		"nameLast": "Inciarte",
+		"nameFirst": "Ender"
+	},
+	{
+		"playerID": "infanom01",
+		"nameLast": "Infante",
+		"nameFirst": "Omar"
+	},
+	{
+		"playerID": "iribahe01",
+		"nameLast": "Iribarren",
+		"nameFirst": "Hernan"
+	},
+	{
+		"playerID": "jacksau01",
+		"nameLast": "Jackson",
+		"nameFirst": "Austin"
+	},
+	{
+		"playerID": "jacksed01",
+		"nameLast": "Jackson",
+		"nameFirst": "Edwin"
+	},
+	{
+		"playerID": "janispa01",
+		"nameLast": "Janish",
+		"nameFirst": "Paul"
+	},
+	{
+		"playerID": "jankotr01",
+		"nameLast": "Jankowski",
+		"nameFirst": "Travis"
+	},
+	{
+		"playerID": "jasojo01",
+		"nameLast": "Jaso",
+		"nameFirst": "John"
+	},
+	{
+		"playerID": "jayjo02",
+		"nameLast": "Jay",
+		"nameFirst": "Jon"
+	},
+	{
+		"playerID": "jenkity01",
+		"nameLast": "Jenkins",
+		"nameFirst": "Tyrell"
+	},
+	{
+		"playerID": "jennide01",
+		"nameLast": "Jennings",
+		"nameFirst": "Desmond"
+	},
+	{
+		"playerID": "jenseky01",
+		"nameLast": "Jensen",
+		"nameFirst": "Kyle"
+	},
+	{
+		"playerID": "johnsch05",
+		"nameLast": "Johnson",
+		"nameFirst": "Chris"
+	},
+	{
+		"playerID": "johnske05",
+		"nameLast": "Johnson",
+		"nameFirst": "Kelly"
+	},
+	{
+		"playerID": "jonesad01",
+		"nameLast": "Jones",
+		"nameFirst": "Adam"
+	},
+	{
+		"playerID": "jonesja07",
+		"nameLast": "Jones",
+		"nameFirst": "JaCoby"
+	},
+	{
+		"playerID": "josepca01",
+		"nameLast": "Joseph",
+		"nameFirst": "Caleb"
+	},
+	{
+		"playerID": "josepto01",
+		"nameLast": "Joseph",
+		"nameFirst": "Tommy"
+	},
+	{
+		"playerID": "joycema01",
+		"nameLast": "Joyce",
+		"nameFirst": "Matthew"
+	},
+	{
+		"playerID": "judgeaa01",
+		"nameLast": "Judge",
+		"nameFirst": "Aaron"
+	},
+	{
+		"playerID": "kangju01",
+		"nameLast": "Kang",
+		"nameFirst": "Jung Ho"
+	},
+	{
+		"playerID": "kawasmu01",
+		"nameLast": "Kawasaki",
+		"nameFirst": "Munenori"
+	},
+	{
+		"playerID": "kazmisc01",
+		"nameLast": "Kazmir",
+		"nameFirst": "Scott"
+	},
+	{
+		"playerID": "kellyca02",
+		"nameLast": "Kelly",
+		"nameFirst": "Carson"
+	},
+	{
+		"playerID": "kellydo01",
+		"nameLast": "Kelly",
+		"nameFirst": "Don"
+	},
+	{
+		"playerID": "kellyty01",
+		"nameLast": "Kelly",
+		"nameFirst": "Ty"
+	},
+	{
+		"playerID": "kempma01",
+		"nameLast": "Kemp",
+		"nameFirst": "Matt"
+	},
+	{
+		"playerID": "kempto01",
+		"nameLast": "Kemp",
+		"nameFirst": "Tony"
+	},
+	{
+		"playerID": "kendrho01",
+		"nameLast": "Kendrick",
+		"nameFirst": "Howie"
+	},
+	{
+		"playerID": "keplema01",
+		"nameLast": "Kepler",
+		"nameFirst": "Max"
+	},
+	{
+		"playerID": "kershcl01",
+		"nameLast": "Kershaw",
+		"nameFirst": "Clayton"
+	},
+	{
+		"playerID": "kiermke01",
+		"nameLast": "Kiermaier",
+		"nameFirst": "Kevin"
+	},
+	{
+		"playerID": "kimhy01",
+		"nameLast": "Kim",
+		"nameFirst": "Hyun Soo"
+	},
+	{
+		"playerID": "kinslia01",
+		"nameLast": "Kinsler",
+		"nameFirst": "Ian"
+	},
+	{
+		"playerID": "kipnija01",
+		"nameLast": "Kipnis",
+		"nameFirst": "Jason"
+	},
+	{
+		"playerID": "koehlto01",
+		"nameLast": "Koehler",
+		"nameFirst": "Tom"
+	},
+	{
+		"playerID": "kratzer01",
+		"nameLast": "Kratz",
+		"nameFirst": "Erik"
+	},
+	{
+		"playerID": "kuhlch01",
+		"nameLast": "Kuhl",
+		"nameFirst": "Chad"
+	},
+	{
+		"playerID": "lackejo01",
+		"nameLast": "Lackey",
+		"nameFirst": "John"
+	},
+	{
+		"playerID": "ladenty01",
+		"nameLast": "Ladendorf",
+		"nameFirst": "Tyler"
+	},
+	{
+		"playerID": "lagarju01",
+		"nameLast": "Lagares",
+		"nameFirst": "Juan"
+	},
+	{
+		"playerID": "lakeju01",
+		"nameLast": "Lake",
+		"nameFirst": "Junior"
+	},
+	{
+		"playerID": "lallibl01",
+		"nameLast": "Lalli",
+		"nameFirst": "Blake"
+	},
+	{
+		"playerID": "lambja01",
+		"nameLast": "Lamb",
+		"nameFirst": "Jake"
+	},
+	{
+		"playerID": "lambjo02",
+		"nameLast": "Lamb",
+		"nameFirst": "John"
+	},
+	{
+		"playerID": "lasteto01",
+		"nameLast": "La Stella",
+		"nameFirst": "Tommy"
+	},
+	{
+		"playerID": "lawribr01",
+		"nameLast": "Lawrie",
+		"nameFirst": "Brett"
+	},
+	{
+		"playerID": "leakemi01",
+		"nameLast": "Leake",
+		"nameFirst": "Mike"
+	},
+	{
+		"playerID": "leeda02",
+		"nameLast": "Lee",
+		"nameFirst": "Dae-ho"
+	},
+	{
+		"playerID": "lemahdj01",
+		"nameLast": "LeMahieu",
+		"nameFirst": "DJ"
+	},
+	{
+		"playerID": "leonsa01",
+		"nameLast": "Leon",
+		"nameFirst": "Sandy"
+	},
+	{
+		"playerID": "lestejo01",
+		"nameLast": "Lester",
+		"nameFirst": "Jon"
+	},
+	{
+		"playerID": "lindad01",
+		"nameLast": "Lind",
+		"nameFirst": "Adam"
+	},
+	{
+		"playerID": "lindofr01",
+		"nameLast": "Lindor",
+		"nameFirst": "Francisco"
+	},
+	{
+		"playerID": "liriafr01",
+		"nameLast": "Liriano",
+		"nameFirst": "Francisco"
+	},
+	{
+		"playerID": "lobatjo01",
+		"nameLast": "Lobaton",
+		"nameFirst": "Jose"
+	},
+	{
+		"playerID": "lockeje01",
+		"nameLast": "Locke",
+		"nameFirst": "Jeff"
+	},
+	{
+		"playerID": "loneyja01",
+		"nameLast": "Loney",
+		"nameFirst": "James"
+	},
+	{
+		"playerID": "longoev01",
+		"nameLast": "Longoria",
+		"nameFirst": "Evan"
+	},
+	{
+		"playerID": "lopezre01",
+		"nameLast": "Lopez",
+		"nameFirst": "Reynaldo"
+	},
+	{
+		"playerID": "loughda01",
+		"nameLast": "Lough",
+		"nameFirst": "David"
+	},
+	{
+		"playerID": "lowrije01",
+		"nameLast": "Lowrie",
+		"nameFirst": "Jed"
+	},
+	{
+		"playerID": "lucrojo01",
+		"nameLast": "Lucroy",
+		"nameFirst": "Jonathan"
+	},
+	{
+		"playerID": "lugose01",
+		"nameLast": "Lugo",
+		"nameFirst": "Seth"
+	},
+	{
+		"playerID": "machama01",
+		"nameLast": "Machado",
+		"nameFirst": "Manny"
+	},
+	{
+		"playerID": "maedake01",
+		"nameLast": "Maeda",
+		"nameFirst": "Kenta"
+	},
+	{
+		"playerID": "mahtomi01",
+		"nameLast": "Mahtook",
+		"nameFirst": "Mikie"
+	},
+	{
+		"playerID": "mailelu01",
+		"nameLast": "Maile",
+		"nameFirst": "Luke"
+	},
+	{
+		"playerID": "maldoma01",
+		"nameLast": "Maldonado",
+		"nameFirst": "Martin"
+	},
+	{
+		"playerID": "margoma01",
+		"nameLast": "Margot",
+		"nameFirst": "Manuel"
+	},
+	{
+		"playerID": "marisja01",
+		"nameLast": "Marisnick",
+		"nameFirst": "Jake"
+	},
+	{
+		"playerID": "markani01",
+		"nameLast": "Markakis",
+		"nameFirst": "Nick"
+	},
+	{
+		"playerID": "marrede01",
+		"nameLast": "Marrero",
+		"nameFirst": "Deven"
+	},
+	{
+		"playerID": "marteje01",
+		"nameLast": "Marte",
+		"nameFirst": "Jefry"
+	},
+	{
+		"playerID": "marteke01",
+		"nameLast": "Marte",
+		"nameFirst": "Ketel"
+	},
+	{
+		"playerID": "martest01",
+		"nameLast": "Marte",
+		"nameFirst": "Starling"
+	},
+	{
+		"playerID": "martica04",
+		"nameLast": "Martinez",
+		"nameFirst": "Carlos"
+	},
+	{
+		"playerID": "martijd02",
+		"nameLast": "Martinez",
+		"nameFirst": "J. D."
+	},
+	{
+		"playerID": "martijo08",
+		"nameLast": "Martinez",
+		"nameFirst": "Jose"
+	},
+	{
+		"playerID": "martile01",
+		"nameLast": "Martin",
+		"nameFirst": "Leonys"
+	},
+	{
+		"playerID": "martimi02",
+		"nameLast": "Martinez",
+		"nameFirst": "Michael"
+	},
+	{
+		"playerID": "martiru01",
+		"nameLast": "Martin",
+		"nameFirst": "Russell"
+	},
+	{
+		"playerID": "martivi01",
+		"nameLast": "Martinez",
+		"nameFirst": "Victor"
+	},
+	{
+		"playerID": "mathije01",
+		"nameLast": "Mathis",
+		"nameFirst": "Jeff"
+	},
+	{
+		"playerID": "matzst01",
+		"nameLast": "Matz",
+		"nameFirst": "Steven"
+	},
+	{
+		"playerID": "mauerjo01",
+		"nameLast": "Mauer",
+		"nameFirst": "Joe"
+	},
+	{
+		"playerID": "maxwebr01",
+		"nameLast": "Maxwell",
+		"nameFirst": "Bruce"
+	},
+	{
+		"playerID": "maybica01",
+		"nameLast": "Maybin",
+		"nameFirst": "Cameron"
+	},
+	{
+		"playerID": "mazarno01",
+		"nameLast": "Mazara",
+		"nameFirst": "Nomar"
+	},
+	{
+		"playerID": "mcbrima02",
+		"nameLast": "McBride",
+		"nameFirst": "Matt"
+	},
+	{
+		"playerID": "mccanbr01",
+		"nameLast": "McCann",
+		"nameFirst": "Brian"
+	},
+	{
+		"playerID": "mccanja02",
+		"nameLast": "McCann",
+		"nameFirst": "James"
+	},
+	{
+		"playerID": "mccarbr01",
+		"nameLast": "McCarthy",
+		"nameFirst": "Brandon"
+	},
+	{
+		"playerID": "mccutan01",
+		"nameLast": "McCutchen",
+		"nameFirst": "Andrew"
+	},
+	{
+		"playerID": "mcgehca01",
+		"nameLast": "McGehee",
+		"nameFirst": "Casey"
+	},
+	{
+		"playerID": "mercejo03",
+		"nameLast": "Mercer",
+		"nameFirst": "Jordy"
+	},
+	{
+		"playerID": "merriwh01",
+		"nameLast": "Merrifield",
+		"nameFirst": "Whit"
+	},
+	{
+		"playerID": "mesorde01",
+		"nameLast": "Mesoraco",
+		"nameFirst": "Devin"
+	},
+	{
+		"playerID": "middlwi01",
+		"nameLast": "Middlebrooks",
+		"nameFirst": "Will"
+	},
+	{
+		"playerID": "mileywa01",
+		"nameLast": "Miley",
+		"nameFirst": "Wade"
+	},
+	{
+		"playerID": "millebr02",
+		"nameLast": "Miller",
+		"nameFirst": "Brad"
+	},
+	{
+		"playerID": "millesh01",
+		"nameLast": "Miller",
+		"nameFirst": "Shelby"
+	},
+	{
+		"playerID": "molinya01",
+		"nameLast": "Molina",
+		"nameFirst": "Yadier"
+	},
+	{
+		"playerID": "mondera02",
+		"nameLast": "Mondesi",
+		"nameFirst": "Raul"
+	},
+	{
+		"playerID": "montemi01",
+		"nameLast": "Montero",
+		"nameFirst": "Miguel"
+	},
+	{
+		"playerID": "montgmi01",
+		"nameLast": "Montgomery",
+		"nameFirst": "Mike"
+	},
+	{
+		"playerID": "moorema02",
+		"nameLast": "Moore",
+		"nameFirst": "Matt"
+	},
+	{
+		"playerID": "moralke01",
+		"nameLast": "Morales",
+		"nameFirst": "Kendrys"
+	},
+	{
+		"playerID": "morelmi01",
+		"nameLast": "Moreland",
+		"nameFirst": "Mitch"
+	},
+	{
+		"playerID": "morgaad01",
+		"nameLast": "Morgan",
+		"nameFirst": "Adam"
+	},
+	{
+		"playerID": "morneju01",
+		"nameLast": "Morneau",
+		"nameFirst": "Justin"
+	},
+	{
+		"playerID": "morrilo01",
+		"nameLast": "Morrison",
+		"nameFirst": "Logan"
+	},
+	{
+		"playerID": "mossbr01",
+		"nameLast": "Moss",
+		"nameFirst": "Brandon"
+	},
+	{
+		"playerID": "motteta01",
+		"nameLast": "Motter",
+		"nameFirst": "Taylor"
+	},
+	{
+		"playerID": "moustmi01",
+		"nameLast": "Moustakas",
+		"nameFirst": "Mike"
+	},
+	{
+		"playerID": "moyast01",
+		"nameLast": "Moya",
+		"nameFirst": "Steven"
+	},
+	{
+		"playerID": "muncyma01",
+		"nameLast": "Muncy",
+		"nameFirst": "Max"
+	},
+	{
+		"playerID": "murphda08",
+		"nameLast": "Murphy",
+		"nameFirst": "Daniel"
+	},
+	{
+		"playerID": "murphjr01",
+		"nameLast": "Murphy",
+		"nameFirst": "J. R."
+	},
+	{
+		"playerID": "murphto04",
+		"nameLast": "Murphy",
+		"nameFirst": "Tom"
+	},
+	{
+		"playerID": "myerswi01",
+		"nameLast": "Myers",
+		"nameFirst": "Wil"
+	},
+	{
+		"playerID": "napolmi01",
+		"nameLast": "Napoli",
+		"nameFirst": "Mike"
+	},
+	{
+		"playerID": "naquity01",
+		"nameLast": "Naquin",
+		"nameFirst": "Tyler"
+	},
+	{
+		"playerID": "narvaom01",
+		"nameLast": "Narvaez",
+		"nameFirst": "Omar"
+	},
+	{
+		"playerID": "navada01",
+		"nameLast": "Nava",
+		"nameFirst": "Daniel"
+	},
+	{
+		"playerID": "navardi01",
+		"nameLast": "Navarro",
+		"nameFirst": "Dioner"
+	},
+	{
+		"playerID": "nelsoji02",
+		"nameLast": "Nelson",
+		"nameFirst": "Jimmy"
+	},
+	{
+		"playerID": "nicasju01",
+		"nameLast": "Nicasio",
+		"nameFirst": "Juan"
+	},
+	{
+		"playerID": "nichobr01",
+		"nameLast": "Nicholas",
+		"nameFirst": "Brett"
+	},
+	{
+		"playerID": "nicolju01",
+		"nameLast": "Nicolino",
+		"nameFirst": "Justin"
+	},
+	{
+		"playerID": "niesejo01",
+		"nameLast": "Niese",
+		"nameFirst": "Jonathon"
+	},
+	{
+		"playerID": "nieuwki01",
+		"nameLast": "Nieuwenhuis",
+		"nameFirst": "Kirk"
+	},
+	{
+		"playerID": "nimmobr01",
+		"nameLast": "Nimmo",
+		"nameFirst": "Brandon"
+	},
+	{
+		"playerID": "nolaaa01",
+		"nameLast": "Nola",
+		"nameFirst": "Aaron"
+	},
+	{
+		"playerID": "norribu01",
+		"nameLast": "Norris",
+		"nameFirst": "Bud"
+	},
+	{
+		"playerID": "norride01",
+		"nameLast": "Norris",
+		"nameFirst": "Derek"
+	},
+	{
+		"playerID": "novaiv01",
+		"nameLast": "Nova",
+		"nameFirst": "Ivan"
+	},
+	{
+		"playerID": "nunezed02",
+		"nameLast": "Nunez",
+		"nameFirst": "Eduardo"
+	},
+	{
+		"playerID": "obriepe04",
+		"nameLast": "O'Brien",
+		"nameFirst": "Peter"
+	},
+	{
+		"playerID": "odorro01",
+		"nameLast": "Odor",
+		"nameFirst": "Rougned"
+	},
+	{
+		"playerID": "olsonma02",
+		"nameLast": "Olson",
+		"nameFirst": "Matt"
+	},
+	{
+		"playerID": "omallsh01",
+		"nameLast": "O'Malley",
+		"nameFirst": "Shawn"
+	},
+	{
+		"playerID": "orlanpa01",
+		"nameLast": "Orlando",
+		"nameFirst": "Paulo"
+	},
+	{
+		"playerID": "ortegra01",
+		"nameLast": "Ortega",
+		"nameFirst": "Rafael"
+	},
+	{
+		"playerID": "ortizda01",
+		"nameLast": "Ortiz",
+		"nameFirst": "David"
+	},
+	{
+		"playerID": "owingch01",
+		"nameLast": "Owings",
+		"nameFirst": "Chris"
+	},
+	{
+		"playerID": "ozunama01",
+		"nameLast": "Ozuna",
+		"nameFirst": "Marcell"
+	},
+	{
+		"playerID": "pachejo01",
+		"nameLast": "Pacheco",
+		"nameFirst": "Jordan"
+	},
+	{
+		"playerID": "paganan01",
+		"nameLast": "Pagan",
+		"nameFirst": "Angel"
+	},
+	{
+		"playerID": "panikjo01",
+		"nameLast": "Panik",
+		"nameFirst": "Joe"
+	},
+	{
+		"playerID": "paredji01",
+		"nameLast": "Paredes",
+		"nameFirst": "Jimmy"
+	},
+	{
+		"playerID": "parkby01",
+		"nameLast": "Park",
+		"nameFirst": "Byung Ho"
+	},
+	{
+		"playerID": "parkeja03",
+		"nameLast": "Parker",
+		"nameFirst": "Jarrett"
+	},
+	{
+		"playerID": "parrage01",
+		"nameLast": "Parra",
+		"nameFirst": "Gerardo"
+	},
+	{
+		"playerID": "pattejo03",
+		"nameLast": "Patterson",
+		"nameFirst": "Jordan"
+	},
+	{
+		"playerID": "paulsbe01",
+		"nameLast": "Paulsen",
+		"nameFirst": "Ben"
+	},
+	{
+		"playerID": "pearcst01",
+		"nameLast": "Pearce",
+		"nameFirst": "Steve"
+	},
+	{
+		"playerID": "peavyja01",
+		"nameLast": "Peavy",
+		"nameFirst": "Jake"
+	},
+	{
+		"playerID": "pederjo01",
+		"nameLast": "Pederson",
+		"nameFirst": "Joc"
+	},
+	{
+		"playerID": "pedrodu01",
+		"nameLast": "Pedroia",
+		"nameFirst": "Dustin"
+	},
+	{
+		"playerID": "penafr01",
+		"nameLast": "Pena",
+		"nameFirst": "Francisco"
+	},
+	{
+		"playerID": "penara02",
+		"nameLast": "Pena",
+		"nameFirst": "Ramiro"
+	},
+	{
+		"playerID": "pencehu01",
+		"nameLast": "Pence",
+		"nameFirst": "Hunter"
+	},
+	{
+		"playerID": "pennicl01",
+		"nameLast": "Pennington",
+		"nameFirst": "Cliff"
+	},
+	{
+		"playerID": "peralda01",
+		"nameLast": "Peralta",
+		"nameFirst": "David"
+	},
+	{
+		"playerID": "peraljh01",
+		"nameLast": "Peralta",
+		"nameFirst": "Jhonny"
+	},
+	{
+		"playerID": "peralwi01",
+		"nameLast": "Peralta",
+		"nameFirst": "Wily"
+	},
+	{
+		"playerID": "perazjo01",
+		"nameLast": "Peraza",
+		"nameFirst": "Jose"
+	},
+	{
+		"playerID": "perdolu02",
+		"nameLast": "Perdomo",
+		"nameFirst": "Luis"
+	},
+	{
+		"playerID": "perezca02",
+		"nameLast": "Perez",
+		"nameFirst": "Carlos"
+	},
+	{
+		"playerID": "perezhe01",
+		"nameLast": "Perez",
+		"nameFirst": "Hernan"
+	},
+	{
+		"playerID": "perezro02",
+		"nameLast": "Perez",
+		"nameFirst": "Roberto"
+	},
+	{
+		"playerID": "perezsa02",
+		"nameLast": "Perez",
+		"nameFirst": "Salvador"
+	},
+	{
+		"playerID": "perezwi01",
+		"nameLast": "Perez",
+		"nameFirst": "Williams"
+	},
+	{
+		"playerID": "peterja01",
+		"nameLast": "Peterson",
+		"nameFirst": "Jace"
+	},
+	{
+		"playerID": "petitgr01",
+		"nameLast": "Petit",
+		"nameFirst": "Gregorio"
+	},
+	{
+		"playerID": "phamth01",
+		"nameLast": "Pham",
+		"nameFirst": "Tommy"
+	},
+	{
+		"playerID": "phegljo01",
+		"nameLast": "Phegley",
+		"nameFirst": "Josh"
+	},
+	{
+		"playerID": "phelpda01",
+		"nameLast": "Phelps",
+		"nameFirst": "David"
+	},
+	{
+		"playerID": "phillbr01",
+		"nameLast": "Phillips",
+		"nameFirst": "Brandon"
+	},
+	{
+		"playerID": "pierzaj01",
+		"nameLast": "Pierzynski",
+		"nameFirst": "A. J."
+	},
+	{
+		"playerID": "pillake01",
+		"nameLast": "Pillar",
+		"nameFirst": "Kevin"
+	},
+	{
+		"playerID": "pinama01",
+		"nameLast": "Pina",
+		"nameFirst": "Manny"
+	},
+	{
+		"playerID": "pindech01",
+		"nameLast": "Pinder",
+		"nameFirst": "Chad"
+	},
+	{
+		"playerID": "pireljo01",
+		"nameLast": "Pirela",
+		"nameFirst": "Jose"
+	},
+	{
+		"playerID": "piscost01",
+		"nameLast": "Piscotty",
+		"nameFirst": "Stephen"
+	},
+	{
+		"playerID": "plaweke01",
+		"nameLast": "Plawecki",
+		"nameFirst": "Kevin"
+	},
+	{
+		"playerID": "plouftr01",
+		"nameLast": "Plouffe",
+		"nameFirst": "Trevor"
+	},
+	{
+		"playerID": "polangr01",
+		"nameLast": "Polanco",
+		"nameFirst": "Gregory"
+	},
+	{
+		"playerID": "polanjo01",
+		"nameLast": "Polanco",
+		"nameFirst": "Jorge"
+	},
+	{
+		"playerID": "polloaj01",
+		"nameLast": "Pollock",
+		"nameFirst": "A. J."
+	},
+	{
+		"playerID": "pomerdr01",
+		"nameLast": "Pomeranz",
+		"nameFirst": "Drew"
+	},
+	{
+		"playerID": "poseybu01",
+		"nameLast": "Posey",
+		"nameFirst": "Buster"
+	},
+	{
+		"playerID": "pradoma01",
+		"nameLast": "Prado",
+		"nameFirst": "Martin"
+	},
+	{
+		"playerID": "preslal01",
+		"nameLast": "Presley",
+		"nameFirst": "Alex"
+	},
+	{
+		"playerID": "priceda01",
+		"nameLast": "Price",
+		"nameFirst": "David"
+	},
+	{
+		"playerID": "profaju01",
+		"nameLast": "Profar",
+		"nameFirst": "Jurickson"
+	},
+	{
+		"playerID": "puigya01",
+		"nameLast": "Puig",
+		"nameFirst": "Yasiel"
+	},
+	{
+		"playerID": "pujolal01",
+		"nameLast": "Pujols",
+		"nameFirst": "Albert"
+	},
+	{
+		"playerID": "quinnro01",
+		"nameLast": "Quinn",
+		"nameFirst": "Roman"
+	},
+	{
+		"playerID": "raburry01",
+		"nameLast": "Raburn",
+		"nameFirst": "Ryan"
+	},
+	{
+		"playerID": "ramiral03",
+		"nameLast": "Ramirez",
+		"nameFirst": "Alexei"
+	},
+	{
+		"playerID": "ramirha01",
+		"nameLast": "Ramirez",
+		"nameFirst": "Hanley"
+	},
+	{
+		"playerID": "ramirjo01",
+		"nameLast": "Ramirez",
+		"nameFirst": "Jose"
+	},
+	{
+		"playerID": "ramoswi01",
+		"nameLast": "Ramos",
+		"nameFirst": "Wilson"
+	},
+	{
+		"playerID": "rasmuco01",
+		"nameLast": "Rasmus",
+		"nameFirst": "Colby"
+	},
+	{
+		"playerID": "rayro02",
+		"nameLast": "Ray",
+		"nameFirst": "Robbie"
+	},
+	{
+		"playerID": "reaco01",
+		"nameLast": "Rea",
+		"nameFirst": "Colin"
+	},
+	{
+		"playerID": "realmjt01",
+		"nameLast": "Realmuto",
+		"nameFirst": "J. T."
+	},
+	{
+		"playerID": "reckean01",
+		"nameLast": "Recker",
+		"nameFirst": "Anthony"
+	},
+	{
+		"playerID": "reddijo01",
+		"nameLast": "Reddick",
+		"nameFirst": "Josh"
+	},
+	{
+		"playerID": "reedaj01",
+		"nameLast": "Reed",
+		"nameFirst": "A. J."
+	},
+	{
+		"playerID": "reedco01",
+		"nameLast": "Reed",
+		"nameFirst": "Cody"
+	},
+	{
+		"playerID": "refsnro01",
+		"nameLast": "Refsnyder",
+		"nameFirst": "Rob"
+	},
+	{
+		"playerID": "reimono01",
+		"nameLast": "Reimold",
+		"nameFirst": "Nolan"
+	},
+	{
+		"playerID": "rendato01",
+		"nameLast": "Renda",
+		"nameFirst": "Tony"
+	},
+	{
+		"playerID": "rendoan01",
+		"nameLast": "Rendon",
+		"nameFirst": "Anthony"
+	},
+	{
+		"playerID": "renfrhu01",
+		"nameLast": "Renfroe",
+		"nameFirst": "Hunter"
+	},
+	{
+		"playerID": "reverbe01",
+		"nameLast": "Revere",
+		"nameFirst": "Ben"
+	},
+	{
+		"playerID": "reyesal02",
+		"nameLast": "Reyes",
+		"nameFirst": "Alex"
+	},
+	{
+		"playerID": "reyesjo01",
+		"nameLast": "Reyes",
+		"nameFirst": "Jose"
+	},
+	{
+		"playerID": "reynoma01",
+		"nameLast": "Reynolds",
+		"nameFirst": "Mark"
+	},
+	{
+		"playerID": "reynoma03",
+		"nameLast": "Reynolds",
+		"nameFirst": "Matt"
+	},
+	{
+		"playerID": "richacl01",
+		"nameLast": "Richard",
+		"nameFirst": "Clayton"
+	},
+	{
+		"playerID": "rickajo01",
+		"nameLast": "Rickard",
+		"nameFirst": "Joey"
+	},
+	{
+		"playerID": "riverre01",
+		"nameLast": "Rivera",
+		"nameFirst": "Rene"
+	},
+	{
+		"playerID": "rivertj01",
+		"nameLast": "Rivera",
+		"nameFirst": "T. J."
+	},
+	{
+		"playerID": "riverya01",
+		"nameLast": "Rivera",
+		"nameFirst": "Yadiel"
+	},
+	{
+		"playerID": "rizzoan01",
+		"nameLast": "Rizzo",
+		"nameFirst": "Anthony"
+	},
+	{
+		"playerID": "roarkta01",
+		"nameLast": "Roark",
+		"nameFirst": "Tanner"
+	},
+	{
+		"playerID": "robincl01",
+		"nameLast": "Robinson",
+		"nameFirst": "Clint"
+	},
+	{
+		"playerID": "robinsh01",
+		"nameLast": "Robinson",
+		"nameFirst": "Shane"
+	},
+	{
+		"playerID": "rodrial01",
+		"nameLast": "Rodriguez",
+		"nameFirst": "Alex"
+	},
+	{
+		"playerID": "rodrise01",
+		"nameLast": "Rodriguez",
+		"nameFirst": "Sean"
+	},
+	{
+		"playerID": "rogerja02",
+		"nameLast": "Rogers",
+		"nameFirst": "Jason"
+	},
+	{
+		"playerID": "rojasmi02",
+		"nameLast": "Rojas",
+		"nameFirst": "Miguel"
+	},
+	{
+		"playerID": "rolliji01",
+		"nameLast": "Rollins",
+		"nameFirst": "Jimmy"
+	},
+	{
+		"playerID": "rominan01",
+		"nameLast": "Romine",
+		"nameFirst": "Andrew"
+	},
+	{
+		"playerID": "rominau01",
+		"nameLast": "Romine",
+		"nameFirst": "Austin"
+	},
+	{
+		"playerID": "rosalad01",
+		"nameLast": "Rosales",
+		"nameFirst": "Adam"
+	},
+	{
+		"playerID": "rosaral01",
+		"nameLast": "Rosario",
+		"nameFirst": "Alberto"
+	},
+	{
+		"playerID": "rosared01",
+		"nameLast": "Rosario",
+		"nameFirst": "Eddie"
+	},
+	{
+		"playerID": "rossda01",
+		"nameLast": "Ross",
+		"nameFirst": "David"
+	},
+	{
+		"playerID": "rossjo01",
+		"nameLast": "Ross",
+		"nameFirst": "Joe"
+	},
+	{
+		"playerID": "ruary01",
+		"nameLast": "Rua",
+		"nameFirst": "Ryan"
+	},
+	{
+		"playerID": "rufda01",
+		"nameLast": "Ruf",
+		"nameFirst": "Darin"
+	},
+	{
+		"playerID": "ruizca01",
+		"nameLast": "Ruiz",
+		"nameFirst": "Carlos"
+	},
+	{
+		"playerID": "ruppca01",
+		"nameLast": "Rupp",
+		"nameFirst": "Cameron"
+	},
+	{
+		"playerID": "rusinch01",
+		"nameLast": "Rusin",
+		"nameFirst": "Chris"
+	},
+	{
+		"playerID": "russead02",
+		"nameLast": "Russell",
+		"nameFirst": "Addison"
+	},
+	{
+		"playerID": "rutlejo01",
+		"nameLast": "Rutledge",
+		"nameFirst": "Josh"
+	},
+	{
+		"playerID": "ryanbr01",
+		"nameLast": "Ryan",
+		"nameFirst": "Brendan"
+	},
+	{
+		"playerID": "saladty01",
+		"nameLast": "Saladino",
+		"nameFirst": "Tyler"
+	},
+	{
+		"playerID": "saltaja01",
+		"nameLast": "Saltalamacchia",
+		"nameFirst": "Jarrod"
+	},
+	{
+		"playerID": "samarje01",
+		"nameLast": "Samardzija",
+		"nameFirst": "Jeff"
+	},
+	{
+		"playerID": "sanchca01",
+		"nameLast": "Sanchez",
+		"nameFirst": "Carlos"
+	},
+	{
+		"playerID": "sanchga02",
+		"nameLast": "Sanchez",
+		"nameFirst": "Gary"
+	},
+	{
+		"playerID": "sanchhe01",
+		"nameLast": "Sanchez",
+		"nameFirst": "Hector"
+	},
+	{
+		"playerID": "sandsje01",
+		"nameLast": "Sands",
+		"nameFirst": "Jerry"
+	},
+	{
+		"playerID": "sanomi01",
+		"nameLast": "Sano",
+		"nameFirst": "Miguel"
+	},
+	{
+		"playerID": "santaca01",
+		"nameLast": "Santana",
+		"nameFirst": "Carlos"
+	},
+	{
+		"playerID": "santada01",
+		"nameLast": "Santana",
+		"nameFirst": "Danny"
+	},
+	{
+		"playerID": "santado01",
+		"nameLast": "Santana",
+		"nameFirst": "Domingo"
+	},
+	{
+		"playerID": "sardilu01",
+		"nameLast": "Sardinas",
+		"nameFirst": "Luis"
+	},
+	{
+		"playerID": "saundmi01",
+		"nameLast": "Saunders",
+		"nameFirst": "Michael"
+	},
+	{
+		"playerID": "schaflo01",
+		"nameLast": "Schafer",
+		"nameFirst": "Logan"
+	},
+	{
+		"playerID": "schebsc01",
+		"nameLast": "Schebler",
+		"nameFirst": "Scott"
+	},
+	{
+		"playerID": "scherma01",
+		"nameLast": "Scherzer",
+		"nameFirst": "Max"
+	},
+	{
+		"playerID": "schimry01",
+		"nameLast": "Schimpf",
+		"nameFirst": "Ryan"
+	},
+	{
+		"playerID": "schoojo01",
+		"nameLast": "Schoop",
+		"nameFirst": "Jonathan"
+	},
+	{
+		"playerID": "scrugxa01",
+		"nameLast": "Scruggs",
+		"nameFirst": "Xavier"
+	},
+	{
+		"playerID": "seageco01",
+		"nameLast": "Seager",
+		"nameFirst": "Corey"
+	},
+	{
+		"playerID": "seageky01",
+		"nameLast": "Seager",
+		"nameFirst": "Kyle"
+	},
+	{
+		"playerID": "segedro01",
+		"nameLast": "Segedin",
+		"nameFirst": "Rob"
+	},
+	{
+		"playerID": "segurje01",
+		"nameLast": "Segura",
+		"nameFirst": "Jean"
+	},
+	{
+		"playerID": "selskst01",
+		"nameLast": "Selsky",
+		"nameFirst": "Steve"
+	},
+	{
+		"playerID": "semiema01",
+		"nameLast": "Semien",
+		"nameFirst": "Marcus"
+	},
+	{
+		"playerID": "severpe01",
+		"nameLast": "Severino",
+		"nameFirst": "Pedro"
+	},
+	{
+		"playerID": "shaffri01",
+		"nameLast": "Shaffer",
+		"nameFirst": "Richie"
+	},
+	{
+		"playerID": "shawtr01",
+		"nameLast": "Shaw",
+		"nameFirst": "Travis"
+	},
+	{
+		"playerID": "shielja02",
+		"nameLast": "Shields",
+		"nameFirst": "James"
+	},
+	{
+		"playerID": "shiplbr01",
+		"nameLast": "Shipley",
+		"nameFirst": "Braden"
+	},
+	{
+		"playerID": "shuckja01",
+		"nameLast": "Shuck",
+		"nameFirst": "J. B."
+	},
+	{
+		"playerID": "simmoan01",
+		"nameLast": "Simmons",
+		"nameFirst": "Andrelton"
+	},
+	{
+		"playerID": "simonal01",
+		"nameLast": "Simon",
+		"nameFirst": "Alfredo"
+	},
+	{
+		"playerID": "smithjo07",
+		"nameLast": "Smith",
+		"nameFirst": "Josh"
+	},
+	{
+		"playerID": "smithma05",
+		"nameLast": "Smith",
+		"nameFirst": "Mallex"
+	},
+	{
+		"playerID": "smithse01",
+		"nameLast": "Smith",
+		"nameFirst": "Seth"
+	},
+	{
+		"playerID": "smoakju01",
+		"nameLast": "Smoak",
+		"nameFirst": "Justin"
+	},
+	{
+		"playerID": "smolija01",
+		"nameLast": "Smolinski",
+		"nameFirst": "Jake"
+	},
+	{
+		"playerID": "snydebr03",
+		"nameLast": "Snyder",
+		"nameFirst": "Brandon"
+	},
+	{
+		"playerID": "solarya01",
+		"nameLast": "Solarte",
+		"nameFirst": "Yangervis"
+	},
+	{
+		"playerID": "solerjo01",
+		"nameLast": "Soler",
+		"nameFirst": "Jorge"
+	},
+	{
+		"playerID": "sotoge01",
+		"nameLast": "Soto",
+		"nameFirst": "Geovany"
+	},
+	{
+		"playerID": "souzast01",
+		"nameLast": "Souza",
+		"nameFirst": "Steven"
+	},
+	{
+		"playerID": "spande01",
+		"nameLast": "Span",
+		"nameFirst": "Denard"
+	},
+	{
+		"playerID": "spangco01",
+		"nameLast": "Spangenberg",
+		"nameFirst": "Cory"
+	},
+	{
+		"playerID": "springe01",
+		"nameLast": "Springer",
+		"nameFirst": "George"
+	},
+	{
+		"playerID": "stantmi03",
+		"nameLast": "Stanton",
+		"nameFirst": "Giancarlo"
+	},
+	{
+		"playerID": "stewach01",
+		"nameLast": "Stewart",
+		"nameFirst": "Chris"
+	},
+	{
+		"playerID": "storytr01",
+		"nameLast": "Story",
+		"nameFirst": "Trevor"
+	},
+	{
+		"playerID": "straida01",
+		"nameLast": "Straily",
+		"nameFirst": "Dan"
+	},
+	{
+		"playerID": "strasst01",
+		"nameLast": "Strasburg",
+		"nameFirst": "Stephen"
+	},
+	{
+		"playerID": "stripro01",
+		"nameLast": "Stripling",
+		"nameFirst": "Ross"
+	},
+	{
+		"playerID": "stubbdr01",
+		"nameLast": "Stubbs",
+		"nameFirst": "Drew"
+	},
+	{
+		"playerID": "suareal01",
+		"nameLast": "Suarez",
+		"nameFirst": "Albert"
+	},
+	{
+		"playerID": "suareeu01",
+		"nameLast": "Suarez",
+		"nameFirst": "Eugenio"
+	},
+	{
+		"playerID": "suzukic01",
+		"nameLast": "Suzuki",
+		"nameFirst": "Ichiro"
+	},
+	{
+		"playerID": "suzukku01",
+		"nameLast": "Suzuki",
+		"nameFirst": "Kurt"
+	},
+	{
+		"playerID": "swansda01",
+		"nameLast": "Swanson",
+		"nameFirst": "Dansby"
+	},
+	{
+		"playerID": "swihabl01",
+		"nameLast": "Swihart",
+		"nameFirst": "Blake"
+	},
+	{
+		"playerID": "syndeno01",
+		"nameLast": "Syndergaard",
+		"nameFirst": "Noah"
+	},
+	{
+		"playerID": "szczuma01",
+		"nameLast": "Szczur",
+		"nameFirst": "Matt"
+	},
+	{
+		"playerID": "taillja01",
+		"nameLast": "Taillon",
+		"nameFirst": "Jameson"
+	},
+	{
+		"playerID": "tapiara01",
+		"nameLast": "Tapia",
+		"nameFirst": "Raimel"
+	},
+	{
+		"playerID": "tayloch03",
+		"nameLast": "Taylor",
+		"nameFirst": "Chris"
+	},
+	{
+		"playerID": "taylomi02",
+		"nameLast": "Taylor",
+		"nameFirst": "Michael"
+	},
+	{
+		"playerID": "teherju01",
+		"nameLast": "Teheran",
+		"nameFirst": "Julio"
+	},
+	{
+		"playerID": "teixema01",
+		"nameLast": "Teixeira",
+		"nameFirst": "Mark"
+	},
+	{
+		"playerID": "tejadru01",
+		"nameLast": "Tejada",
+		"nameFirst": "Ruben"
+	},
+	{
+		"playerID": "telisto01",
+		"nameLast": "Telis",
+		"nameFirst": "Tomas"
+	},
+	{
+		"playerID": "tholejo01",
+		"nameLast": "Thole",
+		"nameFirst": "Josh"
+	},
+	{
+		"playerID": "thompja03",
+		"nameLast": "Thompson",
+		"nameFirst": "Jake"
+	},
+	{
+		"playerID": "thomptr01",
+		"nameLast": "Thompson",
+		"nameFirst": "Trayce"
+	},
+	{
+		"playerID": "tolesan01",
+		"nameLast": "Toles",
+		"nameFirst": "Andrew"
+	},
+	{
+		"playerID": "tomasya01",
+		"nameLast": "Tomas",
+		"nameFirst": "Yasmany"
+	},
+	{
+		"playerID": "tomlike01",
+		"nameLast": "Tomlinson",
+		"nameFirst": "Kelby"
+	},
+	{
+		"playerID": "torrero01",
+		"nameLast": "Torreyes",
+		"nameFirst": "Ronald"
+	},
+	{
+		"playerID": "travide01",
+		"nameLast": "Travis",
+		"nameFirst": "Devon"
+	},
+	{
+		"playerID": "troutmi01",
+		"nameLast": "Trout",
+		"nameFirst": "Mike"
+	},
+	{
+		"playerID": "trumbma01",
+		"nameLast": "Trumbo",
+		"nameFirst": "Mark"
+	},
+	{
+		"playerID": "tuckepr01",
+		"nameLast": "Tucker",
+		"nameFirst": "Preston"
+	},
+	{
+		"playerID": "tulowtr01",
+		"nameLast": "Tulowitzki",
+		"nameFirst": "Troy"
+	},
+	{
+		"playerID": "turneju01",
+		"nameLast": "Turner",
+		"nameFirst": "Justin"
+	},
+	{
+		"playerID": "turnetr01",
+		"nameLast": "Turner",
+		"nameFirst": "Trea"
+	},
+	{
+		"playerID": "uptonbj01",
+		"nameLast": "Upton",
+		"nameFirst": "Melvin"
+	},
+	{
+		"playerID": "uptonju01",
+		"nameLast": "Upton",
+		"nameFirst": "Justin"
+	},
+	{
+		"playerID": "urenajo01",
+		"nameLast": "Urena",
+		"nameFirst": "Jose"
+	},
+	{
+		"playerID": "uriasju01",
+		"nameLast": "Urias",
+		"nameFirst": "Julio"
+	},
+	{
+		"playerID": "uribeju01",
+		"nameLast": "Uribe",
+		"nameFirst": "Juan"
+	},
+	{
+		"playerID": "utleych01",
+		"nameLast": "Utley",
+		"nameFirst": "Chase"
+	},
+	{
+		"playerID": "valaipa01",
+		"nameLast": "Valaika",
+		"nameFirst": "Pat"
+	},
+	{
+		"playerID": "valbulu01",
+		"nameLast": "Valbuena",
+		"nameFirst": "Luis"
+	},
+	{
+		"playerID": "valenda01",
+		"nameLast": "Valencia",
+		"nameFirst": "Danny"
+	},
+	{
+		"playerID": "vanslsc01",
+		"nameLast": "Van Slyke",
+		"nameFirst": "Scott"
+	},
+	{
+		"playerID": "vargake01",
+		"nameLast": "Vargas",
+		"nameFirst": "Kennys"
+	},
+	{
+		"playerID": "vazquch01",
+		"nameLast": "Vazquez",
+		"nameFirst": "Christian"
+	},
+	{
+		"playerID": "velasvi01",
+		"nameLast": "Velasquez",
+		"nameFirst": "Vince"
+	},
+	{
+		"playerID": "venabwi01",
+		"nameLast": "Venable",
+		"nameFirst": "Will"
+	},
+	{
+		"playerID": "verrelo01",
+		"nameLast": "Verrett",
+		"nameFirst": "Logan"
+	},
+	{
+		"playerID": "villajo01",
+		"nameLast": "Villar",
+		"nameFirst": "Jonathan"
+	},
+	{
+		"playerID": "vogelry01",
+		"nameLast": "Vogelsong",
+		"nameFirst": "Ryan"
+	},
+	{
+		"playerID": "vogtst01",
+		"nameLast": "Vogt",
+		"nameFirst": "Stephen"
+	},
+	{
+		"playerID": "vottojo01",
+		"nameLast": "Votto",
+		"nameFirst": "Joey"
+	},
+	{
+		"playerID": "wachami01",
+		"nameLast": "Wacha",
+		"nameFirst": "Michael"
+	},
+	{
+		"playerID": "wainwad01",
+		"nameLast": "Wainwright",
+		"nameFirst": "Adam"
+	},
+	{
+		"playerID": "waldrky02",
+		"nameLast": "Waldrop",
+		"nameFirst": "Kyle"
+	},
+	{
+		"playerID": "walkene01",
+		"nameLast": "Walker",
+		"nameFirst": "Neil"
+	},
+	{
+		"playerID": "wallabr01",
+		"nameLast": "Wallace",
+		"nameFirst": "Brett"
+	},
+	{
+		"playerID": "walshco02",
+		"nameLast": "Walsh",
+		"nameFirst": "Colin"
+	},
+	{
+		"playerID": "weeksje01",
+		"nameLast": "Weeks",
+		"nameFirst": "Jemile"
+	},
+	{
+		"playerID": "weeksri01",
+		"nameLast": "Weeks",
+		"nameFirst": "Rickie"
+	},
+	{
+		"playerID": "wendljo01",
+		"nameLast": "Wendle",
+		"nameFirst": "Joey"
+	},
+	{
+		"playerID": "werthja01",
+		"nameLast": "Werth",
+		"nameFirst": "Jayson"
+	},
+	{
+		"playerID": "whitety01",
+		"nameLast": "White",
+		"nameFirst": "Tyler"
+	},
+	{
+		"playerID": "wietema01",
+		"nameLast": "Wieters",
+		"nameFirst": "Matt"
+	},
+	{
+		"playerID": "wilkian01",
+		"nameLast": "Wilkins",
+		"nameFirst": "Andy"
+	},
+	{
+		"playerID": "willima07",
+		"nameLast": "Williams",
+		"nameFirst": "Mason"
+	},
+	{
+		"playerID": "willima08",
+		"nameLast": "Williamson",
+		"nameFirst": "Mac"
+	},
+	{
+		"playerID": "wilsobo02",
+		"nameLast": "Wilson",
+		"nameFirst": "Bobby"
+	},
+	{
+		"playerID": "wislema01",
+		"nameLast": "Wisler",
+		"nameFirst": "Matt"
+	},
+	{
+		"playerID": "wolteto01",
+		"nameLast": "Wolters",
+		"nameFirst": "Tony"
+	},
+	{
+		"playerID": "wongko01",
+		"nameLast": "Wong",
+		"nameFirst": "Kolten"
+	},
+	{
+		"playerID": "woodal02",
+		"nameLast": "Wood",
+		"nameFirst": "Alex"
+	},
+	{
+		"playerID": "woodtr01",
+		"nameLast": "Wood",
+		"nameFirst": "Travis"
+	},
+	{
+		"playerID": "worthda01",
+		"nameLast": "Worth",
+		"nameFirst": "Danny"
+	},
+	{
+		"playerID": "wrighda03",
+		"nameLast": "Wright",
+		"nameFirst": "David"
+	},
+	{
+		"playerID": "yelicch01",
+		"nameLast": "Yelich",
+		"nameFirst": "Christian"
+	},
+	{
+		"playerID": "youngch04",
+		"nameLast": "Young",
+		"nameFirst": "Chris"
+	},
+	{
+		"playerID": "zimmery01",
+		"nameLast": "Zimmerman",
+		"nameFirst": "Ryan"
+	},
+	{
+		"playerID": "zobribe01",
+		"nameLast": "Zobrist",
+		"nameFirst": "Ben"
+	},
+	{
+		"playerID": "zuninmi01",
+		"nameLast": "Zunino",
+		"nameFirst": "Mike"
+	}
+]
