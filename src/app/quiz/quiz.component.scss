@@ -43,3 +43,27 @@
 
 	&.not-found { background: #a7fdeb; color: #555; }
 }
+
+.seconds-added {
+	display: block;
+	position: absolute;
+	top: 0; 
+	left: 0;
+	color: red;
+	animation-duration: 1.2s;
+	animation-name: slideup;
+	animation-fill-mode: forwards;
+}
+
+  
+  @keyframes slideup {
+	from {
+		transform: translate( 0, -0.5rem );
+		opacity: 1;
+	}
+  
+	to {
+		transform: translate( 0, -3rem );
+		opacity: 0;
+	}
+  }

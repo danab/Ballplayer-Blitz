@@ -1,22 +1,41 @@
 import { Component, OnInit } from '@angular/core';
-import { ANSWERS, NAMES } from '../mock-answers';
+// I had ideas of calling this from an API, but never got around to it. Hence "mock"
+import { NAMES } from '../mock-answers';
 import { Name } from '../answer';
+
+
+const createAnswersObj = (answers) => {
+  return answers.reduce((obj, { first, last }) => {
+    if (obj[last.toLowerCase()]) {
+      obj[last.toLowerCase()].firsts.push(first);
+    } else {
+      obj[last.toLowerCase()] = {
+        found: false,
+        firsts: [first],
+        last: last
+      }
+    }
+    return obj
+  }, {})
+}
 
 @Component({
   selector: 'app-quiz',
   templateUrl: './quiz.component.html',
   styleUrls: ['./quiz.component.scss']
 })
-
 export class QuizComponent implements OnInit {
 
+  timeAllowed: number = 30;
+  maxSecondsAdded: number = 7
   answers: Name[] = NAMES;
-  answersObj: Object = ANSWERS;
-  time: number = 45;
+  answersObj: Object = createAnswersObj(NAMES);
+  time: number = this.timeAllowed;
   answered = 0;
   started: boolean = false;
   finished: boolean = false;
   currentName: string = '';
+  secondsAdded: number[] = [];
   interval;
 
   constructor() { }
@@ -25,9 +44,21 @@ export class QuizComponent implements OnInit {
   }
 
   startQuiz(): void {
+    // Reset, if necessary
+    this.finished = false;
     this.started = true;
-    // Cheat the answerer out of one second.
-    this.time = this.time - 1;
+    this.currentName = '';
+    this.answersObj = createAnswersObj(NAMES);
+    this.secondsAdded = [];
+    this.time = this.timeAllowed;
+
+    this.startTicker();
+
+    // Seems to be overwritten by a re-render or something?
+    setTimeout(() => document.getElementById("last-name-input").focus(), 0);
+  }
+
+  startTicker(): void {
     this.interval = setInterval(() => {
       this.time = this.time - 1;
 
@@ -44,13 +75,13 @@ export class QuizComponent implements OnInit {
   }
 
   handleChange() {
-    const lastName = this.currentName.toLowerCase();
+    const lastName: string = this.currentName.toLowerCase();
     if (this.answersObj[lastName] && !this.answersObj[lastName].found) {
       this.answersObj[lastName].found = true;
       this.currentName = '';
       this.answered += this.answersObj[lastName].firsts.length;
-      this.time = Math.min(60, this.time + 10);
-
+      this.secondsAdded.push(this.time < 53 ? this.maxSecondsAdded : 60 - this.time);
+      this.time = Math.min(60, this.time + this.maxSecondsAdded);
       if (this.answered === this.answers.length) {
         this.endQuiz();
       }

@@ -1,24 +1,25 @@
 <div class="container-fluid">
   <div class="row">
     <p class="explainer col-sm">
-      How well do you know the top players in bigs? Below is a list of {{
+      Below is a list of {{
       answers.length }}
-      players who either pitched 60 innings or received 502 plate appearances. For each correct answer you will receive
-      10 extra seconds, up to a maximum of one minute. Good luck!
+      players who either pitched 60 innings or received 502 plate appearances <em>(Sorry Shohei, just missed for both)</em>.
+      For each correct answer you will receive
+      {{ maxSecondsAdded }} extra seconds, up to a maximum of one minute. Good luck!
     </p>
   </div>
-  <div *ngIf="finished" class="row alert alert-info text-center" role="alert">
-    Game Over! You managed to find {{ answered }} players, which is {{ answered / answers.length * 100 | number }}%!
+  <div *ngIf="finished" class="row alert alert-info" role="alert">
+    Game Over! You managed to find {{ answered }} players. {{ answered | formatAnswered }}
   </div>
   <div class="row top-bar">
     <div class="col">
-      <input #nameInput [disabled]="!started || finished" (keyup)="handleChange()" [(ngModel)]="currentName"
+      <input id="last-name-input" [disabled]="!started || finished" (keyup)="handleChange()" [(ngModel)]="currentName"
         placeholder="Last Name">
     </div>
 
     <div class="col" *ngIf="!finished">
       <div *ngIf="!started">
-        <button (click)="startQuiz(nameInput)">Start the Quiz!</button>
+        <button (click)="startQuiz()">Start the Quiz!</button>
       </div>
 
       <div *ngIf="started">
@@ -26,12 +27,16 @@
       </div>
     </div>
     <div class="col" *ngIf="finished">
+      <button (click)="startQuiz()">Try Again</button>
     </div>
 
     <div class="col">
       Time:
       <span [class.warning]="time < 20">
         {{ time | formatTime }}
+      </span>
+      <span *ngFor="let seconds of secondsAdded" class="seconds-added">
+        +{{ seconds }} seconds
       </span>
     </div>
 

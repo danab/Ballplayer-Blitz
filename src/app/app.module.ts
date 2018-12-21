@@ -8,6 +8,7 @@ import { NavComponent } from './nav/nav.component';
 import { QuizComponent } from './quiz/quiz.component';
 import { FormatTimePipe } from './format-time.pipe';
 import { FormatNamePipe } from './format-name.pipe';
+import { FormatAnsweredPipe } from './format-answered.pipe';
 
 @NgModule({
   declarations: [
@@ -15,7 +16,8 @@ import { FormatNamePipe } from './format-name.pipe';
     NavComponent,
     QuizComponent,
     FormatTimePipe,
-    FormatNamePipe
+    FormatNamePipe,
+    FormatAnsweredPipe
   ],
   imports: [
     BrowserModule,
